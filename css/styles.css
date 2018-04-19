@@ -1,0 +1,32 @@
+body {
+  background-image: url("../images/Linkin-Park.jpg");
+  background-position: center;
+  background-size: contain;
+  font-style: italic;
+  font-weight: bolder;
+}
+.coming {
+  color: white;
+  float: right;
+  font-size: 25px;
+  border:  6px solid black;
+  padding: 10px;
+  margin: 8px;
+  background-color: #FF94F4;
+}
+.about {
+  color: white;
+  float: left;
+  font-size: 23px;
+}
+.Photos {
+  color: white;
+  float: right;
+}
+h1 {
+  color: white;
+  font-size: 100px;
+  font-style: oblique;
+  text-align: center;
+  font-family: monospace;
+}
